@@ -1,0 +1,14 @@
+names:
+- pakai
+- tidak-pakai
+- windshield
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: cctv-seatbelt-detection-for-drivers-and-passengers
+  url: https://universe.roboflow.com/yoww/cctv-seatbelt-detection-for-drivers-and-passengers/dataset/1
+  version: 1
+  workspace: yoww
+test: ../test/images
+train: ../train/images
+val: ../valid/images

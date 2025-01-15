@@ -1,0 +1,7 @@
+names:
+- pakai
+- tidak-pakai
+nc: 2
+test: /content/Cropped-Dataset-resized/test/images
+train: /content/Cropped-Dataset-resized/train/images
+val: /content/Cropped-Dataset-resized/valid/images

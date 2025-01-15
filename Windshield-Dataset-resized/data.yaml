@@ -1,0 +1,6 @@
+names:
+- windshield
+nc: 1
+test: /content/Windshield-Dataset-resized/test/images
+train: /content/Windshield-Dataset-resized/train/images
+val: /content/Windshield-Dataset-resized/valid/images
